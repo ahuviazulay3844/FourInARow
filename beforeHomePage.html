@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Style.css">
+    <title>ארבע בשורה - הגדרות שחקנים</title>
+</head>
+<body>
+    <h1>ארבע בשורה</h1>
+    <div class="input-group">
+        <label for="player1-name">שם שחקן 1 (אדום):</label>
+        <input type="text" id="player1-name" placeholder="הכנס שם שחקן אדום">
+    </div>
+    <div class="input-group">
+        <label for="player2-name">שם שחקן 2 (צהוב):</label>
+        <input type="text" id="player2-name" placeholder="הכנס שם שחקן צהוב">
+    </div>
+    <div class="difficulty-container">
+        <h3>בחר רמת משחק</h3>
+        <label for="difficulty-selector">בחר רמה:</label>
+        <select id="difficulty-selector">
+            <option value="קל">קל</option>
+            <option value="קשה">קשה</option>
+        </select>
+    </div>
+    <button id="start-game-button">התחל משחק</button>
+    <a href="rules.html">להוראות</a>
+    <script src="Script.js"></script>
+</body>
+</html>
