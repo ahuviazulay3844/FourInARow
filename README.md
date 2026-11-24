@@ -3,9 +3,7 @@
 משחק **ארבע בשורה** לשני שחקנים, שנבנה ב-**HTML, CSS ו-JavaScript טהור**: בלי ספריות חיצוניות, בלי שרת ובלי התקנה.
 שני שחקנים מתחרים על לוח של 7 עמודות × 6 שורות. כל שחקן בוחר עמודה, האסימון "נופל" לתא הפנוי התחתון, והראשון שיוצר רצף של ארבעה אסימונים מנצח.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+**שפות:** HTML5 · CSS3 · JavaScript
 
 ---
 
