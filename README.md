@@ -11,6 +11,10 @@
 
 משחק אמיתי עם הסבר קולי בעברית: איך האסימון נופל, איך הלוח נשמר, ואיך המשחק בודק ניצחון בכל הכיוונים.
 
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/d023c1fc-41a1-411d-98a2-91a6b008efa9"><img src="docs/media/preview.gif" width="820" alt="Preview - click to watch with sound"></a>
+</p>
+
 https://github.com/user-attachments/assets/d023c1fc-41a1-411d-98a2-91a6b008efa9
 
 ---
